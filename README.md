@@ -1,9 +1,8 @@
 # Gif Search App
 
 ## Descripción de la app
-```
 Esta es una aplicación hecha en React, JavaScript y CSS, que consume la API de GIPHY con la cual se pueden ver los primeros 12 GIF encontrados, los cuales son ordenados con CSS Grid y a su vez diseño de la app es responsivo, tambien la app cuenta con custom hooks.
-```
+
 
 ## Preparacion del entorno local
 
